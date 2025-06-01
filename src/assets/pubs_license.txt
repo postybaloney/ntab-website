@@ -1,0 +1,11 @@
+Model Information:
+* title:	Magazines
+* source:	https://sketchfab.com/3d-models/magazines-bae987c869f644e695f100f28cc38dd9
+* author:	Qu3st10n (https://sketchfab.com/Qu3st10n)
+
+Model License:
+* license type:	CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions must have the same license.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Magazines" (https://sketchfab.com/3d-models/magazines-bae987c869f644e695f100f28cc38dd9) by Qu3st10n (https://sketchfab.com/Qu3st10n) licensed under CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)

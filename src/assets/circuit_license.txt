@@ -1,0 +1,11 @@
+Model Information:
+* title:	Real Scan of a Printed Circuit Board (PCB)
+* source:	https://sketchfab.com/3d-models/real-scan-of-a-printed-circuit-board-pcb-28354941a40d45b0acde04ade2937f8b
+* author:	LMI Technologies (https://sketchfab.com/LMI_Technologies)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Real Scan of a Printed Circuit Board (PCB)" (https://sketchfab.com/3d-models/real-scan-of-a-printed-circuit-board-pcb-28354941a40d45b0acde04ade2937f8b) by LMI Technologies (https://sketchfab.com/LMI_Technologies) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
