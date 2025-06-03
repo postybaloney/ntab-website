@@ -4,6 +4,8 @@ import {OrbitControls} from 'three/examples/jsm/controls/OrbitControls.js'
 import {gsap} from "gsap"
 import {GLTFLoader} from 'three/examples/jsm/loaders/GLTFLoader.js'
 
+import brainSceneURL from './assets/brain_scene.gltf?url'
+
 window.onload = () => loadModel()
 
 function loadModel() {
@@ -11,7 +13,7 @@ function loadModel() {
 
   // Brain
   const gltfLoader = new GLTFLoader();
-  gltfLoader.load('assets/brain_scene.gltf', (gltfScene) => {
+  gltfLoader.load(brainSceneURL, (gltfScene) => {
     loadedModel = gltfScene.scene;
     // gltfScene.scene.scale.set(5, 5, 5);
     loadedModel.position.y = -12;
