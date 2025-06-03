@@ -11,7 +11,7 @@ function loadModel() {
 
   // Brain
   const gltfLoader = new GLTFLoader();
-  gltfLoader.load('./assets/brain_scene.gltf', (gltfScene) => {
+  gltfLoader.load('./src/assets/brain_scene.gltf', (gltfScene) => {
     loadedModel = gltfScene.scene;
     // gltfScene.scene.scale.set(5, 5, 5);
     loadedModel.position.y = -12;
