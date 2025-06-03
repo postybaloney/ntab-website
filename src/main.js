@@ -4,7 +4,7 @@ import {OrbitControls} from 'three/examples/jsm/controls/OrbitControls.js'
 import {gsap} from "gsap"
 import {GLTFLoader} from 'three/examples/jsm/loaders/GLTFLoader.js'
 
-import brainSceneURL from './assets/brain_scene.gltf?url'
+import brainSceneURL from './assets/brain_scene.glb?url'
 
 window.onload = () => loadModel()
 
