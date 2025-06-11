@@ -68,6 +68,7 @@ nav {
   padding: 4rem 8rem;
   display: flex;
   justify-content: space-between;
+  transition: transform 0.5s;
 }
 
 nav a{
